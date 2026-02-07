@@ -1,18 +1,20 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ruchi Yaduvanshi</h1>
-<h3 align="center">Frontend Designer & Developer | Angular • UI/UX • Tailwind CSS</h3>
+<h3 align="center">Frontend Designer & Developer | Angular • UI/UX • Tailwind CSS | ReactJs </h3>
 
 
-## 👩‍💻 About Me
+##👩‍💻 About Me
 
-✨ Frontend Designer with **9+ years of experience**  
-⚡ Specialized in **Angular (16–18), RxJS, Tailwind CSS, Bootstrap**  
-🎨 Passionate about **pixel-perfect UI, clean code & UX**  
-🚀 Love converting **Figma designs → responsive web apps**  
-🌱 Currently exploring **modern React & performance optimization**
+✨ Frontend Designer & Developer with 9+ years of overall experience <br/>
+🎨 Website Design & Development – 3 years<br/>
+🧠 UX/UI Design – 3 years (Figma, user-centric, pixel-perfect)<br/>
+⚡ Frontend Development – 2 years (Angular 16–18, RxJS)<br/>
+⚛️ React JS – 1 year (modern React, hooks, performance basics)<br/>
 
----
-
+🚀 Skilled in Angular, RxJS, Tailwind CSS, Bootstrap, HTML & CSS<br/>
+🎯 Passionate about clean code, responsive layouts & great UX<br/>
+🔁 Love converting Figma designs → scalable, high-performance web apps<br/>
+🌱 Currently exploring advanced React patterns & performance optimization
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
